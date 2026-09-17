@@ -1,8 +1,10 @@
 # Lean CNNs for Mapping Electron Charge Density Fields to Material Properties
 
-This repository contains the code accompanying the paper *"Lean CNNs for Mapping Electron Charge Density Fields to Material Properties"* by Pranoy Ray, Kamal Choudhary, and Surya R. Kalidindi, published in *Integrating Materials and Manufacturing Innovation* (2025).
+[![Paper](https://img.shields.io/badge/IMMI-10.1007%2Fs40192--024--00389--9-blue)](https://doi.org/10.1007/s40192-024-00389-9)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.09826-b31b1b)](https://arxiv.org/abs/2505.09826)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-📄 **Paper:** [Springer Nature Link](https://doi.org/10.1007/s40192-024-00389-9) · [arXiv:2505.09826](https://arxiv.org/abs/2505.09826)
+This repository contains the codebase for the framework presented in **"Lean CNNs for Mapping Electron Charge Density Fields to Material Properties"** by Pranoy Ray, Kamal Choudhary, and Surya R. Kalidindi, published in *Integrating Materials and Manufacturing Innovation* (IMMI, 2025).
 
 ---
 
@@ -34,7 +36,7 @@ The framework is evaluated on a dataset of **crystalline cubic systems** compris
 3. **Lean CNN** — a compact convolutional network maps the featurized fields to effective material properties.
 4. **Output** — predicted effective properties, learned as surrogate structure–property linkages.
 
-## Repository Structure
+## Directory Structure
 
 > Adjust the paths below to match the actual layout of your repository.
 
@@ -101,4 +103,4 @@ If you use this code or find this work useful, please cite:
 
 ## License
 
-Add a license file (e.g., MIT) and reference it here.
+Released under the [MIT License](LICENSE).
