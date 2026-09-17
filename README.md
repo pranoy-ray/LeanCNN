@@ -1,6 +1,4 @@
-# LeanCNN
-
-**Lean CNNs for Mapping Electron Charge Density Fields to Material Properties**
+# Lean CNNs for Mapping Electron Charge Density Fields to Material Properties
 
 This repository contains the code accompanying the paper *"Lean CNNs for Mapping Electron Charge Density Fields to Material Properties"* by Pranoy Ray, Kamal Choudhary, and Surya R. Kalidindi, published in *Integrating Materials and Manufacturing Innovation* (2025).
 
